@@ -1,0 +1,75 @@
+.heading{
+    background-color: rgb(255, 105, 180);
+    position: fixed; top: 0; right: 0; left: 0;
+}
+.logo{
+    color: black; font-size: 24px; font-weight: bold; display: block;
+    margin-left: auto; margin-right: auto; width: 9%;
+}
+.link{
+    text-decoration: none;
+    font-size: 1.5em;
+    color:black;
+}
+.link:hover{
+    background-color: rgba(250, 235, 215, 0.5);
+}
+.nav{
+    text-align: center;
+}
+.nav li{
+    display: inline;
+    list-style-type: none;
+}
+.indexbg{
+    padding-top: 150px;
+    height: fit-content;
+}
+.btn{
+    border: none;cursor: pointer;
+    border-radius: 20px;
+    background-color:orchid;
+    font-size: 32px;
+}
+.btn1{
+    border: none;cursor: pointer;
+    border-radius: 20px;
+    background-color:rgba(2, 235, 215, 0.2);
+    font-size: 22px; text-align: center;
+}
+.btn:hover{
+    box-shadow: 4px 4px 0px 0px rgb(245, 245, 245,0.5);
+}
+.cat{
+    padding-top: 100px;
+    background-color: antiquewhite;
+}
+.hidden{
+    padding-top: 100px;
+    background-color: antiquewhite;
+    display: none;
+}
+.category{
+    list-style-type: none;
+    display:inline-block;
+    margin: 0px 100px 20px 100px;
+    border: 3px solid pink;
+    text-align: center;
+}
+.c1{
+    display:inline-block;
+    margin: 0px 100px 20px 100px;
+    border: none;
+    
+}
+.c1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.c2{
+    display:inline-block;
+    margin: 0px 100px 20px 100px;
+    border: none;
+}
+.c2:hover{
+    zoom: 102%;
+}
